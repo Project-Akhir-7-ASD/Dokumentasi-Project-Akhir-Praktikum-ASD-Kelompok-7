@@ -11,14 +11,14 @@ Contoh program ini bisa digunakan untuk membantu pengelolaan data mahasiswa di s
 1. Library\
   Kami menggunakan library os, collection, prettytable, time, dan pwinput
   
-2. Database Login\
+2. Database Login
   - Untuk Login Admin, menggunakan database online/hosting yaitu Mongodb.
   - Untuk Login Mahasiswa, menggunakan database dictionary.
 
 3. Linked List\
-  Linked List yang digunakan hanya untuk user Mahasiswa, yang terdiri dari fungsi atau def tambah data, hapus data, lihat data, cari data urutkan data.
+  Linked List yang digunakan hanya untuk user Mahasiswa, yang terdiri dari fungsi atau def tambah data, hapus data, lihat data, cari data dan urutkan data.
 
-4. Sorting\ 
+4. Sorting <br/>
   Menggunakan Quick Sort.
 
 5. Searching\
@@ -43,7 +43,8 @@ Contoh program ini bisa digunakan untuk membantu pengelolaan data mahasiswa di s
 Program ini memiliki fitur-fitur seperti:
 1. Menambahkan data mahasiswa ke dalam struktur data yang digunakan.
 2. Menghapus data mahasiswa dari struktur data.
-3. Mencari data mahasiswa berdasarkan kriteria tertentu, seperti nama atau nomor induk mahasiswa.
-4. Menampilkan seluruh data mahasiswa yang tersimpan dalam struktur data.
+3. Mengurutkan data mahasiswa berdasarkan kriteria tertentu, seperti nomor induk mahasiswa (NIM).
+4. Mencari data mahasiswa berdasarkan kriteria tertentu, seperti nomor induk mahasiswa (NIM).
+5. Menampilkan seluruh data mahasiswa yang tersimpan dalam struktur data.
 
 # Cara Penggunaan
