@@ -1,30 +1,30 @@
-# Deskripsi Program\
-Tema program yang kami buat adalah Data Mahasiswa, dimana terdapat 3 user untuk login ke program, yaitu admin, staff, dan mahasiswa. Program ini bertujuan untuk mengimplementasikan beberapa konsep algoritma dan struktur data pada data mahasiswa. Beberapa konsep algoritma dan struktur data yang kami gunakan dalam program ini yaitu:\
+# Deskripsi Program
+Tema program yang kami buat adalah Data Mahasiswa, dimana terdapat 3 user untuk login ke program, yaitu admin, staff, dan mahasiswa. Program ini bertujuan untuk mengimplementasikan beberapa konsep algoritma dan struktur data pada data mahasiswa. Beberapa konsep algoritma dan struktur data yang kami gunakan dalam program ini yaitu:
 1. Linked List: untuk merepresentasikan data mahasiswa dalam bentuk simpul-simpul yang terhubung satu sama lain.
 2. Algoritma Sorting: untuk melakukan pengurutan data mahasiswa berdasarkan kriteria tertentu, seperti nim.
-3. Algoritma Searching: untuk melakukan pencarian data mahasiswa berdasarkan kriteria tertentu, seperti nim.\
+3. Algoritma Searching: untuk melakukan pencarian data mahasiswa berdasarkan kriteria tertentu, seperti nim.
 
-Contoh program ini bisa digunakan untuk membantu pengelolaan data mahasiswa di suatu institusi pendidikan, seperti universitas atau sekolah. Dengan menggunakan algoritma dan struktur data yang efisien, program ini dapat memudahkan pengelolaan dan pencarian data mahasiswa, sehingga mempercepat proses pengambilan keputusan dan pengambilan tindakan yang tepat.\
+Contoh program ini bisa digunakan untuk membantu pengelolaan data mahasiswa di suatu institusi pendidikan, seperti universitas atau sekolah. Dengan menggunakan algoritma dan struktur data yang efisien, program ini dapat memudahkan pengelolaan dan pencarian data mahasiswa, sehingga mempercepat proses pengambilan keputusan dan pengambilan tindakan yang tepat.
 
 
-# Struktur Project\
+# Struktur Project
 1. Library\
   Kami menggunakan library os, collection, prettytable, time, dan pwinput
   
 2. Database Login\
-  - Untuk Login Admin, menggunakan database online/hosting yaitu Mongodb.\
-  - Untuk Login Mahasiswa, menggunakan database dictionary.\
+  - Untuk Login Admin, menggunakan database online/hosting yaitu Mongodb.
+  - Untuk Login Mahasiswa, menggunakan database dictionary.
 
 3. Linked List\
-  Linked List yang digunakan hanya untuk user Mahasiswa, yang terdiri dari fungsi atau def tambah data, hapus data, lihat data, cari data urutkan data.\
+  Linked List yang digunakan hanya untuk user Mahasiswa, yang terdiri dari fungsi atau def tambah data, hapus data, lihat data, cari data urutkan data.
 
 4. Sorting\ 
-  Menggunakan Quick Sort.\
+  Menggunakan Quick Sort.
 
 5. Searching\
-  Menggunakan Fibonacci.\
+  Menggunakan Fibonacci.
 
-6. Fungsi\
+6. Fungsi
   - def els(): Untuk kembali ke menu sebelumnya.
   - def keluar(): untuk keluar dari program.
   - def login_atas_admin(): untuk login Admin.
