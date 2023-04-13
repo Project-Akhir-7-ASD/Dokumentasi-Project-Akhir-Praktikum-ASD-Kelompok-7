@@ -1,4 +1,4 @@
-# Deskripsi Program
+# 💖Deskripsi Program💖
 Tema program yang kami buat adalah Data Mahasiswa, dimana terdapat 3 user untuk login ke program, yaitu admin, staff, dan mahasiswa. Program ini bertujuan untuk mengimplementasikan beberapa konsep algoritma dan struktur data pada data mahasiswa. Beberapa konsep algoritma dan struktur data yang kami gunakan dalam program ini yaitu:
 1. Linked List: untuk merepresentasikan data mahasiswa dalam bentuk simpul-simpul yang terhubung satu sama lain.
 2. Algoritma Sorting: untuk melakukan pengurutan data mahasiswa berdasarkan kriteria tertentu, seperti nim.
