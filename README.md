@@ -75,5 +75,43 @@ Program ini memiliki fitur-fitur seperti:
   
 5. Tambah Staff
   <img width="276" alt="image" src="https://user-images.githubusercontent.com/122151428/235306497-bb0e24bb-8ed3-4deb-b221-5f038f0287b0.png">
-  <img width="319" alt="image" src="https://user-images.githubusercontent.com/122151428/235306537-26a6a27c-bf2e-4efe-9018-e56a77c25bfc.png">
+  <img width="322" alt="image" src="https://user-images.githubusercontent.com/122151428/235306869-09176860-c381-447f-ba79-3cc34bd921d8.png">
+  <img width="135" alt="image" src="https://user-images.githubusercontent.com/122151428/235306884-0d41b681-982e-45fa-92e1-a2df40b8a029.png">
+
+6. Hapus Data Staff
+  <img width="300" alt="image" src="https://user-images.githubusercontent.com/122151428/235306908-4283b241-80d4-4b7b-9b4d-0db95e704d0d.png">
+  <img width="286" alt="image" src="https://user-images.githubusercontent.com/122151428/235306995-8f58788c-edce-4494-a3b0-0fed78934151.png">
+  <img width="153" alt="image" src="https://user-images.githubusercontent.com/122151428/235307009-abfb4770-8a1b-4fcd-88a7-ae645d401d73.png">
+
+7. Login Staff
+  <img width="297" alt="image" src="https://user-images.githubusercontent.com/122151428/235307033-6f57187c-cc04-4b15-a24a-26524af37b9b.png">
+  <img width="255" alt="image" src="https://user-images.githubusercontent.com/122151428/235307054-5f1ada60-03c0-47e4-a2d1-d44173c3012a.png">
+  <img width="282" alt="image" src="https://user-images.githubusercontent.com/122151428/235307080-8e53762d-4068-4b40-a2d6-de3248378d96.png">
+  <img width="258" alt="image" src="https://user-images.githubusercontent.com/122151428/235307093-5b7c0ae7-2d94-4588-8c34-6f660be8afbc.png">
+
+8. Tambah Data Mahasiswa
+  <img width="287" alt="image" src="https://user-images.githubusercontent.com/122151428/235307333-6722fe46-3760-4268-ab54-f6ee3215d052.png">
+  <img width="299" alt="image" src="https://user-images.githubusercontent.com/122151428/235307300-20a77d3f-c7bb-4c30-8749-6c85c6c45205.png">
+  <img width="400" alt="image" src="https://user-images.githubusercontent.com/122151428/235307310-8e7148b1-8a1c-42a7-ac84-d2020e01ea38.png">
+
+9. Hapus Data Mahasiswa
+  <img width="391" alt="image" src="https://user-images.githubusercontent.com/122151428/235307447-8040f433-d33c-427d-8c11-4cf658d00f55.png">
+  <img width="301" alt="image" src="https://user-images.githubusercontent.com/122151428/235307457-6490cab0-5b3c-4f2f-8c1e-5e5a1371dcef.png">
+  <img width="392" alt="image" src="https://user-images.githubusercontent.com/122151428/235307468-99765560-c12c-4ff7-b35d-29c0be97964d.png">
+
+10. Lihat Data Mahasiswa
+  <img width="280" alt="image" src="https://user-images.githubusercontent.com/122151428/235307569-75cdf590-53fd-4cad-8fb6-9cf760a3aea3.png">
+  <img width="391" alt="image" src="https://user-images.githubusercontent.com/122151428/235307515-39f2a10b-54ab-4a14-98b0-d99b68032195.png">
+
+11. Urutkan Data Mahasiswa
+  <img width="259" alt="image" src="https://user-images.githubusercontent.com/122151428/235307575-afe3a7ad-dcd5-4f4f-9538-a8dde35b4c50.png">
+  <img width="390" alt="image" src="https://user-images.githubusercontent.com/122151428/235307545-fd0e4f9a-0ab9-438c-ae1a-3284ee2a14c4.png">
+
+12. Cari Data Mahasiswa
+  <img width="287" alt="image" src="https://user-images.githubusercontent.com/122151428/235307583-ee17a136-ab46-4040-99d6-e72bdb5caed8.png">
+  <img width="390" alt="image" src="https://user-images.githubusercontent.com/122151428/235307628-bcbdb670-6527-4221-be05-2dce946c6472.png">
+
+13. Login Mahasiswa
+  <img width="275" alt="image" src="https://user-images.githubusercontent.com/122151428/235307701-f3b74214-883f-460c-9467-430a5d79c70d.png">
+  <img width="278" alt="image" src="https://user-images.githubusercontent.com/122151428/235307716-8638b303-b8f7-48d0-96b6-b44eed0b6282.png">
 
