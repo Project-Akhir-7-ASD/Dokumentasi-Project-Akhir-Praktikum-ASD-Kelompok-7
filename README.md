@@ -4,7 +4,7 @@ Tema program yang kami buat adalah Data Mahasiswa, dimana terdapat 3 user untuk 
 2. Algoritma Sorting: untuk melakukan pengurutan data mahasiswa berdasarkan kriteria tertentu, seperti nim.
 3. Algoritma Searching: untuk melakukan pencarian data mahasiswa berdasarkan kriteria tertentu, seperti nim.
 
-Contoh program ini bisa digunakan untuk membantu pengelolaan data mahasiswa di suatu institusi pendidikan, seperti universitas atau sekolah. Dengan menggunakan algoritma dan struktur data yang efisien, program ini dapat memudahkan pengelolaan dan pencarian data mahasiswa, sehingga mempercepat proses pengambilan keputusan dan pengambilan tindakan yang tepat.
+<br />Contoh program ini bisa digunakan untuk membantu pengelolaan data mahasiswa di suatu institusi pendidikan, seperti universitas atau sekolah. Dengan menggunakan algoritma dan struktur data yang efisien, program ini dapat memudahkan pengelolaan dan pencarian data mahasiswa, sehingga mempercepat proses pengambilan keputusan dan pengambilan tindakan yang tepat.
 
 
 # 🦋Struktur Project🦋
