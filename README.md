@@ -10,6 +10,8 @@ Contoh program ini bisa digunakan untuk membantu pengelolaan data mahasiswa di s
 # 🦋Struktur Project🦋
 1. Library\
   Kami menggunakan library os, collection, prettytable, time, dan pwinput
+  <img width="234" alt="image" src="https://user-images.githubusercontent.com/122151428/235304238-626506f9-419e-4c54-9221-db7734db7ff8.png">
+
   
 2. Database Login
   - Untuk Login Admin, menggunakan database online/hosting yaitu Mongodb.
@@ -47,3 +49,5 @@ Program ini memiliki fitur-fitur seperti:
 5. Menampilkan seluruh data mahasiswa yang tersimpan dalam struktur data.
 
 # 💻Cara Penggunaan💻
+
+1. Library
