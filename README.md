@@ -56,6 +56,17 @@ Program ini memiliki fitur-fitur seperti:
 
 # 💻Cara Penggunaan💻
 
-1. Login Admin
-2. Login Staff
-3. Login Mahasiswa
+1. Tampilan Awal Program
+  <img width="328" alt="image" src="https://user-images.githubusercontent.com/122151428/235305821-851c5cf6-50ff-4bbe-bbb3-93774370c9ae.png">
+  Ketik "1" untuk membuka menu selanjutnya, dan ketik "2" untuk keluar dari program.
+  
+2. Tampilan Menu Program
+  <img width="226" alt="image" src="https://user-images.githubusercontent.com/122151428/235305884-ca442f59-af32-4dab-8804-89cd0ba12131.png">
+  Ketik "1" untuk login sebagai Admin.
+
+3. Login Admin
+  <img width="223" alt="image" src="https://user-images.githubusercontent.com/122151428/235305934-4261681b-7620-419a-9f78-865f8e0cc166.png">
+  
+
+3. Login Staff
+4. Login Mahasiswa
