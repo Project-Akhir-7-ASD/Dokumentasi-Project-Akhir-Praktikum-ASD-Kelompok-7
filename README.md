@@ -18,7 +18,7 @@ Contoh program ini bisa digunakan untuk membantu pengelolaan data mahasiswa di s
   - Untuk Login Mahasiswa, menggunakan database dictionary.
 
 3. Linked List\
-  Linked List menggunakan single linkedlist, yaitu linkedlist yang digunakan hanya terdiri untuk user Mahasiswa, yang terdiri dari fungsi atau def tambah data, hapus data, lihat data, cari data dan urutkan data.
+  Linked List yang digunakan hanya untuk user Mahasiswa, yang terdiri dari fungsi atau def tambah data, hapus data, lihat data, cari data dan urutkan data.
   <img width="531" alt="image" src="https://user-images.githubusercontent.com/122151428/235304562-ccd8b7a8-58bc-40ca-bf23-868b07c17f46.png">
   <img width="291" alt="image" src="https://user-images.githubusercontent.com/122151428/235304587-081888cf-d7e6-4408-8147-d7b68fac781d.png">
   <img width="481" alt="image" src="https://user-images.githubusercontent.com/122151428/235304604-2032fe31-db51-482b-81c1-872edda6b2b6.png">
@@ -114,4 +114,19 @@ Program ini memiliki fitur-fitur seperti:
 13. Login Mahasiswa
   <img width="275" alt="image" src="https://user-images.githubusercontent.com/122151428/235307701-f3b74214-883f-460c-9467-430a5d79c70d.png">
   <img width="278" alt="image" src="https://user-images.githubusercontent.com/122151428/235307716-8638b303-b8f7-48d0-96b6-b44eed0b6282.png">
+  <img width="272" alt="image" src="https://user-images.githubusercontent.com/122151428/235307806-bdd2ad2a-c1f0-4fe4-998e-62204dc821c7.png">
+  <img width="252" alt="image" src="https://user-images.githubusercontent.com/122151428/235307877-eb4c6d76-7cf5-4bf6-bf97-6e130be1fe98.png">
+  <img width="268" alt="image" src="https://user-images.githubusercontent.com/122151428/235307893-bcb23e23-5865-42c5-a5e9-3dc8bfd20883.png">
+  
+14. Lihat Mata Kuliah
+  <img width="259" alt="image" src="https://user-images.githubusercontent.com/122151428/235307914-4e469a4e-75f5-4eab-ab2a-492c4d4e54e4.png">
+  <img width="409" alt="image" src="https://user-images.githubusercontent.com/122151428/235307986-82cfdda6-69ff-4cf7-9374-b5e32f9a8553.png">
 
+15. Lihat Data Mahasiswa
+  <img width="259" alt="image" src="https://user-images.githubusercontent.com/122151428/235308014-29da5df3-dd16-44d6-abee-3ead421e82c8.png">
+  <img width="390" alt="image" src="https://user-images.githubusercontent.com/122151428/235308029-9783ba40-115e-415e-8252-b0740ca60878.png">
+
+16. Keluar Program
+  <img width="279" alt="image" src="https://user-images.githubusercontent.com/122151428/235308044-0071578b-7397-4c68-9ef7-a722cb7009c6.png">
+  <img width="277" alt="image" src="https://user-images.githubusercontent.com/122151428/235308063-1d429336-defe-4798-a71e-ae4483165abc.png">
+  <img width="342" alt="image" src="https://user-images.githubusercontent.com/122151428/235308142-5fc1b0f4-acb1-408b-8ff4-2aa65ee275a2.png">
