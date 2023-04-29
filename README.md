@@ -19,6 +19,12 @@ Contoh program ini bisa digunakan untuk membantu pengelolaan data mahasiswa di s
 
 3. Linked List\
   Linked List yang digunakan hanya untuk user Mahasiswa, yang terdiri dari fungsi atau def tambah data, hapus data, lihat data, cari data dan urutkan data.
+  <img width="531" alt="image" src="https://user-images.githubusercontent.com/122151428/235304562-ccd8b7a8-58bc-40ca-bf23-868b07c17f46.png">
+  <img width="291" alt="image" src="https://user-images.githubusercontent.com/122151428/235304587-081888cf-d7e6-4408-8147-d7b68fac781d.png">
+  <img width="481" alt="image" src="https://user-images.githubusercontent.com/122151428/235304604-2032fe31-db51-482b-81c1-872edda6b2b6.png">
+  <img width="413" alt="image" src="https://user-images.githubusercontent.com/122151428/235304619-250d6838-c58d-4ef7-8825-157b78263f59.png">
+  <img width="357" alt="image" src="https://user-images.githubusercontent.com/122151428/235304644-759ca353-d687-4755-b3ee-64a4fc904ed6.png">
+  <img width="380" alt="image" src="https://user-images.githubusercontent.com/122151428/235304693-6fcfa0f5-cc90-44d5-9a79-e31d49013be6.png">
 
 4. Sorting <br/>
   Menggunakan Quick Sort.
@@ -50,4 +56,6 @@ Program ini memiliki fitur-fitur seperti:
 
 # 💻Cara Penggunaan💻
 
-1. Library
+1. Login Admin
+2. Login Staff
+3. Login Mahasiswa
