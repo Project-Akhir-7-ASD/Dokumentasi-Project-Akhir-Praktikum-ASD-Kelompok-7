@@ -12,6 +12,8 @@ Contoh program ini bisa digunakan untuk membantu pengelolaan data mahasiswa di s
 
 
   Kami menggunakan library os, collection, prettytable, time, dan pwinput
+  
+  
   <img width="234" alt="image" src="https://user-images.githubusercontent.com/122151428/235304238-626506f9-419e-4c54-9221-db7734db7ff8.png">
 
   
