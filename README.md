@@ -19,7 +19,7 @@ Contoh program ini bisa digunakan untuk membantu pengelolaan data mahasiswa di s
   - Untuk Login Admin, menggunakan database online/hosting yaitu Mongodb.
   - Untuk Login Mahasiswa, menggunakan database dictionary.
 
-3. Linked List
+3. Linked List\n
 
 
   Linked List yang digunakan hanya untuk user Mahasiswa, yang terdiri dari fungsi atau def tambah data, hapus data, lihat data, cari data dan urutkan data.
