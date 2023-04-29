@@ -185,3 +185,6 @@ Program ini memiliki fitur-fitur seperti:
   <img width="277" alt="image" src="https://user-images.githubusercontent.com/122151428/235308063-1d429336-defe-4798-a71e-ae4483165abc.png">
   <img width="342" alt="image" src="https://user-images.githubusercontent.com/122151428/235308142-5fc1b0f4-acb1-408b-8ff4-2aa65ee275a2.png">
   Ketik "5" pada menu sebelumnya untuk keluar dari program.
+
+# ✨Foto Kelompok✨
+![Gambar WhatsApp 2023-04-29 pukul 21 12 08](https://user-images.githubusercontent.com/122151428/235310712-66bde761-abba-441c-8684-0d81f8ae7181.jpg)
