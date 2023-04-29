@@ -9,7 +9,7 @@ Contoh program ini bisa digunakan untuk membantu pengelolaan data mahasiswa di s
 
 # 🦋Struktur Project🦋
 1. Library\
-  Kami menggunakan library os, collection, prettytable, time, dan pwinput.
+  Kami menggunakan library os, collection, prettytable, time, dan pwinput
   <img width="234" alt="image" src="https://user-images.githubusercontent.com/122151428/235304238-626506f9-419e-4c54-9221-db7734db7ff8.png">
 
   
@@ -56,17 +56,24 @@ Program ini memiliki fitur-fitur seperti:
 
 # 💻Cara Penggunaan💻
 
-1. Tampilan Awal Program.
+1. Tampilan Awal Program
   <img width="328" alt="image" src="https://user-images.githubusercontent.com/122151428/235305821-851c5cf6-50ff-4bbe-bbb3-93774370c9ae.png">
-  Ketik "1" untuk membuka menu selanjutnya, dan ketik "2" untuk keluar dari program.
+  Ketik "1" untuk membuka menu selanjutnya, dan ketik "2" untuk keluar dari program.\
   
-2. Tampilan Menu Program.
+2. Tampilan Menu Program
   <img width="226" alt="image" src="https://user-images.githubusercontent.com/122151428/235305884-ca442f59-af32-4dab-8804-89cd0ba12131.png">
-  Ketik "1" untuk login sebagai Admin.
+  Ketik "1" untuk login sebagai Admin.\
 
-3. Login Admin.
+3. Login Admin
   <img width="223" alt="image" src="https://user-images.githubusercontent.com/122151428/235305934-4261681b-7620-419a-9f78-865f8e0cc166.png">
+  Masukkan Username "KEL7" dan Password "777" yang sudah disediakan di dictionary.\
   
+4. Lihat Data Staff
+  <img width="289" alt="image" src="https://user-images.githubusercontent.com/122151428/235306265-c248e917-a821-4df5-99e1-34f1497d0e17.png">
+  <img width="135" alt="image" src="https://user-images.githubusercontent.com/122151428/235306392-379f8e8a-edb3-4aee-9a37-dfddb9338259.png">
+  Ketik "1" untuk melihat data staff yang ada d database Mongodb.\
+  
+5. Tambah Staff
+  <img width="276" alt="image" src="https://user-images.githubusercontent.com/122151428/235306497-bb0e24bb-8ed3-4deb-b221-5f038f0287b0.png">
+  <img width="319" alt="image" src="https://user-images.githubusercontent.com/122151428/235306537-26a6a27c-bf2e-4efe-9018-e56a77c25bfc.png">
 
-3. Login Staff.
-4. Login Mahasiswa.
