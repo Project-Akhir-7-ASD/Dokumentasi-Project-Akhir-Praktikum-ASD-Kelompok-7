@@ -18,7 +18,7 @@ Contoh program ini bisa digunakan untuk membantu pengelolaan data mahasiswa di s
   - Untuk Login Mahasiswa, menggunakan database dictionary.
 
 3. Linked List\
-  Linked List yang digunakan hanya untuk user Mahasiswa, yang terdiri dari fungsi atau def tambah data, hapus data, lihat data, cari data dan urutkan data.
+  Linked List menggunakan single linkedlist, yaitu linkedlist yang digunakan hanya terdiri untuk user Mahasiswa, yang terdiri dari fungsi atau def tambah data, hapus data, lihat data, cari data dan urutkan data.
   <img width="531" alt="image" src="https://user-images.githubusercontent.com/122151428/235304562-ccd8b7a8-58bc-40ca-bf23-868b07c17f46.png">
   <img width="291" alt="image" src="https://user-images.githubusercontent.com/122151428/235304587-081888cf-d7e6-4408-8147-d7b68fac781d.png">
   <img width="481" alt="image" src="https://user-images.githubusercontent.com/122151428/235304604-2032fe31-db51-482b-81c1-872edda6b2b6.png">
